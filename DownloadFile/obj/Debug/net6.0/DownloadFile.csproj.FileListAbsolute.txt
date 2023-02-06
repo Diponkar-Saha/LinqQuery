@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\DownloadFile\bin\Debug\net6.0\DownloadFile.exe
+E:\c#\asp.net\LinqQuery\DownloadFile\bin\Debug\net6.0\DownloadFile.deps.json
+E:\c#\asp.net\LinqQuery\DownloadFile\bin\Debug\net6.0\DownloadFile.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\DownloadFile\bin\Debug\net6.0\DownloadFile.dll
+E:\c#\asp.net\LinqQuery\DownloadFile\bin\Debug\net6.0\DownloadFile.pdb
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.dll
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\refint\DownloadFile.dll
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.pdb
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\DownloadFile.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\DownloadFile\obj\Debug\net6.0\ref\DownloadFile.dll

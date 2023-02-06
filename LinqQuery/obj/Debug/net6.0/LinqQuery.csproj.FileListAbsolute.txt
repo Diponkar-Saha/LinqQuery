@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\LinqQuery\bin\Debug\net6.0\LinqQuery.exe
+E:\c#\asp.net\LinqQuery\LinqQuery\bin\Debug\net6.0\LinqQuery.deps.json
+E:\c#\asp.net\LinqQuery\LinqQuery\bin\Debug\net6.0\LinqQuery.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\LinqQuery\bin\Debug\net6.0\LinqQuery.dll
+E:\c#\asp.net\LinqQuery\LinqQuery\bin\Debug\net6.0\LinqQuery.pdb
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.dll
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\refint\LinqQuery.dll
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.pdb
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\LinqQuery.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\LinqQuery\obj\Debug\net6.0\ref\LinqQuery.dll

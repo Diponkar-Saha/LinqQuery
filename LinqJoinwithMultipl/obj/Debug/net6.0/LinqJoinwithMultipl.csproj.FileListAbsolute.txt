@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\bin\Debug\net6.0\LinqJoinwithMultipl.exe
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\bin\Debug\net6.0\LinqJoinwithMultipl.deps.json
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\bin\Debug\net6.0\LinqJoinwithMultipl.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\bin\Debug\net6.0\LinqJoinwithMultipl.dll
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\bin\Debug\net6.0\LinqJoinwithMultipl.pdb
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.dll
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\refint\LinqJoinwithMultipl.dll
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.pdb
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\LinqJoinwithMultipl.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\LinqJoinwithMultipl\obj\Debug\net6.0\ref\LinqJoinwithMultipl.dll

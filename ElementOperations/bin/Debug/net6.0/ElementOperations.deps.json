@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ElementOperations/1.0.0": {
+        "dependencies": {
+          "AggregateOperator": "1.0.0"
+        },
+        "runtime": {
+          "ElementOperations.dll": {}
+        }
+      },
+      "AggregateOperator/1.0.0": {
+        "runtime": {
+          "AggregateOperator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElementOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AggregateOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\bin\Debug\net6.0\InnerJoinLinq.exe
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\bin\Debug\net6.0\InnerJoinLinq.deps.json
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\bin\Debug\net6.0\InnerJoinLinq.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\bin\Debug\net6.0\InnerJoinLinq.dll
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\bin\Debug\net6.0\InnerJoinLinq.pdb
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.dll
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\refint\InnerJoinLinq.dll
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.pdb
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\InnerJoinLinq.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\InnerJoinLinq\obj\Debug\net6.0\ref\InnerJoinLinq.dll

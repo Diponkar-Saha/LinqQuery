@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\AggregateOperator\bin\Debug\net6.0\AggregateOperator.exe
+E:\c#\asp.net\LinqQuery\AggregateOperator\bin\Debug\net6.0\AggregateOperator.deps.json
+E:\c#\asp.net\LinqQuery\AggregateOperator\bin\Debug\net6.0\AggregateOperator.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\AggregateOperator\bin\Debug\net6.0\AggregateOperator.dll
+E:\c#\asp.net\LinqQuery\AggregateOperator\bin\Debug\net6.0\AggregateOperator.pdb
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.dll
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\refint\AggregateOperator.dll
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.pdb
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\AggregateOperator.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\AggregateOperator\obj\Debug\net6.0\ref\AggregateOperator.dll

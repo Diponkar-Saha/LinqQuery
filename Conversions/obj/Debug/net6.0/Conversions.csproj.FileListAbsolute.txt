@@ -1,0 +1,15 @@
+E:\c#\asp.net\LinqQuery\Conversions\bin\Debug\net6.0\Conversions.exe
+E:\c#\asp.net\LinqQuery\Conversions\bin\Debug\net6.0\Conversions.deps.json
+E:\c#\asp.net\LinqQuery\Conversions\bin\Debug\net6.0\Conversions.runtimeconfig.json
+E:\c#\asp.net\LinqQuery\Conversions\bin\Debug\net6.0\Conversions.dll
+E:\c#\asp.net\LinqQuery\Conversions\bin\Debug\net6.0\Conversions.pdb
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.csproj.AssemblyReference.cache
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.AssemblyInfoInputs.cache
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.AssemblyInfo.cs
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.csproj.CoreCompileInputs.cache
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.dll
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\refint\Conversions.dll
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.pdb
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\Conversions.genruntimeconfig.cache
+E:\c#\asp.net\LinqQuery\Conversions\obj\Debug\net6.0\ref\Conversions.dll
